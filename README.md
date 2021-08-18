@@ -1,10 +1,10 @@
-## Eae, eu sou o Victor de Carli.
+## Eae Devs :)
 - Estudando Javascript 📕
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá devs, me <nome/> é Victor to cursando nenhuma aréa no momento. O famoso  <strong>Autodidata</strong>.<br>
+  Olá devs, me nome é Victor to cursando nenhuma aréa no momento. O famoso  <strong>Autodidata</strong>.<br>
  E como um Dev responsavel estou estudando Javascript e depois irei matar a curiosidade sobre o Tailwind
 </p>
 
