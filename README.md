@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Estou aprendendo ainda...</strong>
+  🦄 Linguagens: <strong>Estou aprendendo ainda...</strong> 
 </p>
 
 <div>
