@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá devs, me nome é Victor de carli  estava cursando ADS e SI, porém o curso se encontra tracado, ficará assim até a pandemia acabar. Porém estou estudando em casa o famoso,   <strong>Autodidata</strong>.<br>
+  Olá devs, meu nome é Victor de carli  estava cursando ADS e SI, porém o curso se encontra tracado, ficará assim até a pandemia acabar. Porém estou estudando em casa o famoso,   <strong>Autodidata</strong>.<br>
  E como um Dev responsavel estou estudando Javascript e depois irei matar a curiosidade sobre o Tailwind
 </p>
 
