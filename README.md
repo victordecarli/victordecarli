@@ -2,7 +2,7 @@
 
 > Desenvolvedor Front-end.
 
-🔭 Estou no momento estudando Javascript.
+🔭 Estou no momento estudando React.
 
 💬 Caso queira uma pessoa que sempre dá o melhor de si e que gosta de trabalhar em equipe, fale comigo.
 
