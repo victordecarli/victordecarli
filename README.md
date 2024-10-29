@@ -1,26 +1,30 @@
 ## 👋 Bem-vindo ao meu perfil!
-Sou o **Victor**, um entusiasta do desenvolvimento Front-end e apaixonado por criar experiências digitais incríveis.  
-🚀 Atualmente, estou me especializando em **React** para melhorar minhas habilidades
 
-----
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="35%">
+        <div style="display: inline_block">
+          <figure>
+            <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+          </figure>
+        </div>
+      </td>
+      <td align="center" width="65%">
+        <figure>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=V0nor&theme=react&border_radius=23&locale=pt_BR&card_width=494" alt="GitHub Streak">
+        </figure>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Habilidades Principais
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img alt="Javascript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="32"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-<div style="display: flex">
-  
-<figure>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=V0nor&theme=react&border_radius=8.1&locale=pt_BR&card_width=494" alt="GitHub Streak">
-</figure>
-
 </div>
 
 ---
