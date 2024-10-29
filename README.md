@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu perfil!
 Sou o **Victor**, um entusiasta do desenvolvimento Front-end e apaixonado por criar experiências digitais incríveis.  
-🚀 Atualmente, estou me especializando em **React** para melhorar minhas habilidades e 
+🚀 Atualmente, estou me especializando em **React** para melhorar minhas habilidades
 
 ----
 
