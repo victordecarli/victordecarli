@@ -30,11 +30,8 @@ Sou o **Victor**, um entusiasta do desenvolvimento Front-end e apaixonado por cr
 <a href="mailto:vonorvictor@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dev-victor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+
 ## 📂 Projetos em Destaque
 - [Projeto 1 - Portfólio](https://github.com/v0nor/portfolio): Uma aplicação em React para exibir meu portfólio pessoal.
 
 💬 Estou sempre aberto a colaborações e novos desafios! Vamos construir algo incrível juntos.
-
-  
-![Snake animation](https://github.com/v0nor/v0nor/blob/output/github-contribution-grid-snake.svg)
-
