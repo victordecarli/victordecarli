@@ -1,7 +1,7 @@
 ## 👋 Bem-vindo ao meu perfil!
 <div align="center" width="780">
   <figure>
-    <img src="https://c4.wallpaperflare.com/wallpaper/886/929/249/neon-welcome-neon-hd-wallpaper-preview.jpg" width="1920" height="720">
+    <img src="https://c4.wallpaperflare.com/wallpaper/886/929/249/neon-welcome-neon-hd-wallpaper-preview.jpg" width="1920">
   </figure>
 </div>
   <table style="border-collapse: collapse">
