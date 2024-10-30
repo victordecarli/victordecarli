@@ -1,9 +1,12 @@
 ## 👋 Bem-vindo ao meu perfil!
-
-<div align="center">
-  <table>
+<div align="center" width="780">
+  <figure>
+    <img src="https://c4.wallpaperflare.com/wallpaper/886/929/249/neon-welcome-neon-hd-wallpaper-preview.jpg" width="1920" height="720">
+  </figure>
+</div>
+  <table style="border-collapse: collapse">
     <tr>
-      <td valign="top" width="35%">
+      <td align="center" width="35%">
         <div style="display: inline_block">
           <figure>
             <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -20,6 +23,7 @@
 </div>
 
 ## 🚀 Habilidades Principais
+
 <div style="display: flex"><br>
   <img alt="Javascript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
