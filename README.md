@@ -1,7 +1,7 @@
 ## 👋 Bem-vindo ao meu perfil!
 <div align="center" width="780">
   <figure>
-    <img src="https://github.com/user-attachments/assets/f1793ca3-fc6f-4206-b1c2-26de030c48d2" width="1920">
+    <img src="https://github.com/user-attachments/assets/98f4948f-06bf-4651-85d6-19fc566ecdee" width="1920">
   </figure>
 </div>
   <table style="border-collapse: collapse">
