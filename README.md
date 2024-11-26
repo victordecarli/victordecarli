@@ -15,7 +15,7 @@
       </td>
       <td align="center" width="65%">
         <figure>
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=V0nor&theme=react&border_radius=23&locale=pt_BR&card_width=494" alt="GitHub Streak">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=victordecarli&theme=react&border_radius=23&locale=pt_BR&card_width=494" alt="GitHub Streak">
         </figure>
       </td>
     </tr>
