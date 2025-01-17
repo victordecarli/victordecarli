@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Gera o Snake Game uma vez por dia
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Configura o repositório
+      - uses: actions/checkout@v2
+      # Configura Python para rodar o script
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      # Instala as dependências
+      - name: Install dependencies
+        run: |
+          pip install requests
+          pip install python-dotenv
+      # Baixa o script para gerar o Snake Game
+      - name: Generate Snake Game
+        run: |
+          curl -o generate_snake.py https://raw.githubusercontent.com/Platane/snk/main/generate_snake.py
+          python3 generate_snake.py
+      # Adiciona o arquivo gerado ao branch `output`
+      - name: Push generated snake animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-contribution-grid-snake
+          path: ./github-contribution-grid-snake.svg
